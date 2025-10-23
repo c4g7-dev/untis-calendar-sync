@@ -1,0 +1,33 @@
+{
+  "week_url": "https://example.webuntis.com/?date=2025-10-20",
+  "data": [
+    {
+      "text": "Mathematics",
+      "time": "07:20 - 08:50",
+      "teacher": "Mr. Smith",
+      "resources": ["Room O1101"],
+      "notes": []
+    },
+    {
+      "text": "English",
+      "time": "09:10 - 10:40",
+      "teacher": "Ms. Johnson",
+      "resources": ["Room O1104"],
+      "notes": []
+    },
+    {
+      "text": "Physics",
+      "time": "10:50 - 12:20",
+      "teacher": "Dr. Wilson",
+      "resources": ["Room O1003"],
+      "notes": []
+    },
+    {
+      "text": "Literature",
+      "time": "12:50 - 14:20",
+      "teacher": "Ms. Davis",
+      "resources": ["Room O1027", "+O1101", "+O1102"],
+      "notes": ["Exam"]
+    }
+  ]
+}

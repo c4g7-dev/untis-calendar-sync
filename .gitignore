@@ -1,0 +1,46 @@
+# Sensitive Data - NEVER COMMIT
+.env
+credentials.json
+token.pickle
+*.pem
+*.key
+
+# User Data
+weekly_data/*.json
+!weekly_data/*.example
+!weekly_data/README.md
+logs/
+parsed_lessons.json
+parsed_lessons_all_weeks.json
+manual_data.json
+sync_status.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Debug
+debug/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+/tmp/
