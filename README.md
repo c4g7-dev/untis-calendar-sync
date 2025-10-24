@@ -1,9 +1,43 @@
-https://github.com/c4g7-dev/untis-calendar-sync/blob/0782cdacce9331c17cf8c103c7b0b2dde34f3d3d/Untis_Example.png
-https://github.com/c4g7-dev/untis-calendar-sync/blob/0782cdacce9331c17cf8c103c7b0b2dde34f3d3d/Untis_Example.png
+<div align="center">
 
-# WebUntis to Google Calendar Sync
+# 📅 WebUntis → Google Calendar Sync
 
-Automated synchronization tool that extracts your schedule from WebUntis and syncs it to Google Calendar every 30 minutes.
+**Automated schedule synchronization that actually works**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Made with Selenium](https://img.shields.io/badge/made%20with-Selenium-43B02A.svg)](https://www.selenium.dev/)
+
+*Extracts your schedule from WebUntis and syncs it to Google Calendar every 30 minutes.*
+
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Showcase](#showcase) • [Setup Guide](SETUP.md)
+
+---
+
+</div>
+
+> **Note from the Developer**  
+> *POV: Me at 2 AM building this instead of studying...  
+> Also me at 6 AM writing a Chemistry exam... YES, I did this. Worth it? Absolutely.*
+
+## Showcase
+
+<div align="center">
+
+### WebUntis Schedule
+<img src="showcase/Untis_Example.png" width="600" alt="WebUntis Schedule Example">
+
+### Google Calendar Integration
+<img src="showcase/Google_Example1.png" width="600" alt="Google Calendar Monthly View">
+<img src="showcase/Google_Example2.png" width="600" alt="Google Calendar Event Details">
+
+### Live Dashboard
+<img src="showcase/Dashboard.png" width="600" alt="Status Dashboard">
+
+### JSON API Endpoint
+<img src="showcase/JsonEndpoint_Example.png" width="600" alt="JSON API Response">
+
+</div>
 
 ## Features
 
