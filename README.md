@@ -25,17 +25,18 @@
 <div align="center">
 
 ### WebUntis Schedule
-<img src="showcase/Untis_Example.png" width="600" alt="WebUntis Schedule Example">
+<img src="showcase/Untis_Example.png" width="700" alt="WebUntis Schedule Example">
 
 ### Google Calendar Integration
-<img src="showcase/Google_Example1.png" width="600" alt="Google Calendar Monthly View">
-<img src="showcase/Google_Example2.png" width="600" alt="Google Calendar Event Details">
+<img src="showcase/Google_Example1.png" width="700" alt="Google Calendar Monthly View">
+<img src="showcase/Google_Example2.png" width="700" alt="Google Calendar Event Details">
 
-### Live Dashboard
-<img src="showcase/Dashboard.png" width="600" alt="Status Dashboard">
+### Monitoring
 
-### JSON API Endpoint
-<img src="showcase/JsonEndpoint_Example.png" width="600" alt="JSON API Response">
+<p>
+  <img src="showcase/Dashboard.png" width="400" alt="Status Dashboard">
+  <img src="showcase/JsonEndpoint_Example.png" width="400" alt="JSON API Response">
+</p>
 
 </div>
 
