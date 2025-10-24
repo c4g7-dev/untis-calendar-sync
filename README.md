@@ -1,3 +1,6 @@
+https://github.com/c4g7-dev/untis-calendar-sync/blob/0782cdacce9331c17cf8c103c7b0b2dde34f3d3d/Untis_Example.png
+https://github.com/c4g7-dev/untis-calendar-sync/blob/0782cdacce9331c17cf8c103c7b0b2dde34f3d3d/Untis_Example.png
+
 # WebUntis to Google Calendar Sync
 
 Automated synchronization tool that extracts your schedule from WebUntis and syncs it to Google Calendar every 30 minutes.
