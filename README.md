@@ -34,7 +34,7 @@
 ### Monitoring
 
 <p>
-  <img src="showcase/Dashboard.png" width="400" alt="Status Dashboard">
+  <img src="showcase/Dashboard1.png" width="400" alt="Status Dashboard">
   <img src="showcase/JsonEndpoint_Example1.png" width="400" alt="JSON API Response">
 </p>
 
