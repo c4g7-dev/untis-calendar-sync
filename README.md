@@ -35,7 +35,7 @@
 
 <p>
   <img src="showcase/Dashboard.png" width="400" alt="Status Dashboard">
-  <img src="showcase/JsonEndpoint_Example.png" width="400" alt="JSON API Response">
+  <img src="showcase/JsonEndpoint_Example1.png" width="400" alt="JSON API Response">
 </p>
 
 </div>
